@@ -1,0 +1,13 @@
+1- Despertador toca 
+2- Desligo o despertador 
+3- Levanto da cama 
+4- Estou vestido? Sim 
+  1- Abro a porta 
+  2- lavo o rosto 
+  3- desço a escada 
+5- Estou vestido? Não 
+ 1- Abro o guarda-roupa 
+ 2- Coloco a roupa 
+ 3- Abro a porta 
+ 4- lavo o rosto 
+ 5- desço a escada 
